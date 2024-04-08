@@ -13,7 +13,7 @@ Your mission is to find that hidden paper with the password.
 --- INSTRUCTION 1 ---
 
 Head to the folder named "Office building" 🏢 and look up for the further
-instructions there (todo.txt).
+instructions there by opening the file named "todo.txt".
 
 Let the hunt begin! 😎
 
