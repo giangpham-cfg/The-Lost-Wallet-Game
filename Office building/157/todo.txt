@@ -1,0 +1,9 @@
+
+
+We're in the room, and no one is here 😎
+
+Look for the secret spot in the painting. That's where the desired 
+paper is.
+
+Use your CLI skills to navigate to a hidden folder (spot).
+

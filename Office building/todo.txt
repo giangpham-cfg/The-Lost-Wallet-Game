@@ -1,0 +1,12 @@
+
+
+Great, we're in the office! 🏢
+
+First, recall the number of your boss's room.
+
+This number matches the first 3 digits of the IP address for 
+your company's website – www.facebook.com. Your mission is to discover 
+this number  and proceed to the corresponding room (folder).
+
+🔍 Don't forget to check instructions (todo`s) along the way to understand 
+your next actions.

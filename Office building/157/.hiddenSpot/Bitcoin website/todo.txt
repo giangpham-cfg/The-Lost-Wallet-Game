@@ -1,0 +1,6 @@
+
+You're nearly there.
+
+Open your digital wallet (run the wallet.sh file) and use the password 
+you've just discovered.
+

@@ -1,0 +1,16 @@
+
+
+Great job! You found the paper. Now, open it (passwords.txt).
+
+But hold on... There are so many passwords 🤯. 
+Each password is associated with a name. 
+
+Which name should you look for? How about your boss 🤔.
+
+--- TASKS ---
+1) Use your CLI skills to find the line containing the name of the guy 
+who started Facebook – "Mark".
+
+2) After you find the password, go to the "Bitcoin website" folder 
+and see what's next.
+
